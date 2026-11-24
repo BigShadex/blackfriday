@@ -1,0 +1,11 @@
+{
+  "name": "Client Tracker Spreadsheet",
+  "url": "https://bigshadex.itch.io/client-tracker",
+  "description": "Spreadsheet for freelancers: clients, invoices, part payments and follow-ups on one dashboard. No macros. Tested in LibreOffice Calc, built with AI assistance",
+  "category": "business",
+  "deal": "50% off, pay once, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 12.99, "sale": 6.49, "currency": "USD" },
+  "discount": 50,
+  "endDate": "2026-12-01"
+}

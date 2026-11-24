@@ -1,0 +1,12 @@
+{
+  "name": "PulseLite Complete",
+  "url": "https://bigshadex.itch.io/pulselite-complete",
+  "description": "408 game UI sounds (menu, sci-fi, horror) in WAV + OGG with a drop-in Godot 4 script. Procedural DSP audio, no AI audio; scripts and text AI-assisted",
+  "category": "media",
+  "deal": "60% off all 408 sounds, pay once, no code needed",
+  "pricing": "one-time",
+  "price": { "regular": 13.99, "sale": 5.60, "currency": "USD" },
+  "discount": 60,
+  "startDate": "2026-11-26",
+  "endDate": "2026-12-01"
+}
